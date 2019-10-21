@@ -5,4 +5,4 @@ wiki/electrochemical assay
 
 The python files found here are tested on Windows 10 and python 3.7.
 
-Also for the arduino codes, Arduino IDE 1.8 was used.
+For the arduino codes, Arduino IDE 1.8 was used.
